@@ -1,3 +1,10 @@
 # CSE212-Final-Project
 
-["Introduction"]("./introduction.md")
+## Section 1
+
+-   [Introduction](introduction.md)
+-   [Big-O Notation](big.md)
+
+## Section 2
+
+-   [Stacks](stack.md)
