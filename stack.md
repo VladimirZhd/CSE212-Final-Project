@@ -33,3 +33,16 @@ s = "ettene"
 print(removeDuplicates(s))
 # The output will be 'ne'
 ```
+
+Next example I want you to solve by yourself.
+We are going to check if the parenthesis are valid, meaning they have an opening and closing pair.
+
+-   Given a string with parenthesis, brackets, and curly braces determine if the input string is valid.
+
+An input is valid if:
+
+1. Open brackets must be closed by the same type of brackets.
+2. Open brackets must be closed in the right order.
+
+Try to solve it using stacks, and compare your solution with mine in the end.
+[My Solution](stacks.py)
