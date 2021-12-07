@@ -46,3 +46,7 @@ An input is valid if:
 
 Try to solve it using stacks, and compare your solution with mine in the end.
 [My Solution](stacks.py)
+
+In this section we learned what stack is and how to use it. Let's move on to the next section and learn more about sets.
+
+[Set ->](set.md)
