@@ -1,12 +1,12 @@
 [<- Back](README.md)
 
-## Let's Talk About Stacks!
+## `Let's Talk About Stacks!`
 
 When you hear a word stack, what is the first thing that comes to your mind? I always think about something like pancakes, stack of socks, stack of any clothes or shoes. Anything that I put on the top of a pile and then I am going to take the last thing that was added to the stack and use it. It is a natural process we rarely got to a stack of pancakes and trying to get one from the middle (in this case we would use a list or a dictionary), rather we grab one on the top. This is stack, it is easy remember that the stack works in this way "last in, first out."
 
 Lets talk about performance. When we append to a stack we are not going through each element that is already there, but we adding to the end, this is O(1) time complexity always would be constant because we adding to the end. The same logic will apply for removing a item from the end. If you want to find a value then in the worse case scenario we will have O(n) if the value you are looking for would be the last value in the loop.
 
-### Examples
+### `Examples`
 
 Let's see it in the code for this example we are going to remove all adjacent duplicates in a string.
 

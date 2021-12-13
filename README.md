@@ -8,3 +8,5 @@
 ## Section 2
 
 -   [Stacks](stack.md)
+-   [Sets](set.md)
+-   [Trees](tree.md)
