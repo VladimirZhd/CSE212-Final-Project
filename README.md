@@ -1,6 +1,6 @@
 # CSE212-Final-Project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SjrLumGuONY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch](https://www.youtube.com/watch?v=SjrLumGuONY)]
 
 ## Section 1
 
