@@ -1,7 +1,5 @@
 # CSE212-Final-Project
 
-[![Watch]()](https://www.youtube.com/watch?v=SjrLumGuONY)
-
 ## Section 1
 
 -   [Introduction](introduction.md)
